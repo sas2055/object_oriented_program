@@ -73,7 +73,7 @@ Sample().__init__()
 
 2. Parameterized constructor:
     - constructor with parameters is known as parameterized constructor.
-    - it takes its first argument as a reference to the+++++++ instance being constructed known as self
+    - it takes its first argument as a reference to the instance being constructed known as self
     and the rest of the arguments are provided by the programmer
 --------------------------------------------------------------------------------
 
